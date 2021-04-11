@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AshleyThew/mern_stack.git"
+    "url": "git+https://github.com/AshleyThew/mern.git"
   },
   "author": "Ashley Thew",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AshleyThew/mern_stack/issues"
+    "url": "https://github.com/AshleyThew/mern/issues"
   },
-  "homepage": "https://github.com/AshleyThew/mern_stack#readme",
+  "homepage": "https://github.com/AshleyThew/mern#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
